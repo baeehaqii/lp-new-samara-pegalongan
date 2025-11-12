@@ -1001,9 +1001,6 @@ export default function Properties() {
                       </div>
                     </div>
 
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
-
                     <div className="modal-cta">
                       <Link
                         href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Samara%20Pegalongan"

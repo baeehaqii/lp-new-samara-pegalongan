@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Samara Pegalongan</h2>
               <p className="about-description">
-                Berada di Jl. Raya Gunung Tugel, Pegalongan, Patikraja, Samara Pegalongan adalah perumahan Purwokerto yang menempatkan kamu di kawasan Segitiga Emas Purwokerto, dekat dengan segala kebutuhan sehari-hari. Hunian ini dirancang fungsional dengan lingkungan tertata, legalitas aman, dan akses gampang ke sekolah, pusat belanja, layanan kesehatan, serta pusat aktivitas kota. 
+                Berada di Jl. Raya Gunung Tugel, Pegalongan, Patikraja, Samara Pegalongan adalah perumahan Purwokerto yang menempatkan kamu di kawasan Segitiga Emas Purwokerto, dekat dengan segala kebutuhan sehari-hari. Hunian ini dirancang fungsional dengan lingkungan tertata, legalitas aman, dan akses gampang ke sekolah, pusat belanja, layanan kesehatan, serta pusat aktivitas kota.
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
@@ -59,22 +59,22 @@ export default function About() {
 
           {/* Container statistik */}
           <div className="about-stats-grid">
-            {/* Statistik - Projects Completed */}
+            {/* Statistik - Best Locations */}
             <div className="about-stat-card">
-              <div className="about-stat-value">1</div>
-              <div className="about-stat-label">Perumahan Terbaik di Pegalongan</div>
+              <div className="about-stat-value">3</div>
+              <div className="about-stat-label">Lokasi Terbaik di Jawa Bagian Selatan</div>
             </div>
 
-            {/* Statistik - Awards */}
+            {/* Statistik - Families */}
             <div className="about-stat-card">
-              <div className="about-stat-value">200+</div>
-              <div className="about-stat-label">Keluarga Samara Pegalongan</div>
+              <div className="about-stat-value">10.000+</div>
+              <div className="about-stat-label">Keluarga Sapphire</div>
             </div>
 
-            {/* Statistik - Satisfied Clients */}
+            {/* Statistik - Leading Projects */}
             <div className="about-stat-card">
-              <div className="about-stat-value">24</div>
-              <div className="about-stat-label">Jam Keamanan One-Gate</div>
+              <div className="about-stat-value">3</div>
+              <div className="about-stat-label">Proyek Unggulan</div>
             </div>
 
             {/* Statistik - Years of Experience */}
