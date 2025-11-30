@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
       title: "Rumah Pertama, Tempat Semuanya Bermula",
       description:
         "Setiap momen berharga dimulai dari sini.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522442/Salinan_tipe_36_66_Model_4_2_nrk5kh.avif",
       title: "Lokasi Super Strategis",
       description: "Di Segitiga Emas Banyumas, mudah ke segala arah.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825387/2_6_-_Photo.jpeg_sbnhu8.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
       title: "Hidup Praktis di Pusat Aktivitas",
       description: "Semua kebutuhan harian hanya beberapa menit dari rumah.",
     },

@@ -31,9 +31,9 @@ export default function Features() {
   return (
     <section id="fasilitas" className="features-section">
       <div className="container">
-        <h2 className="section-title">Bukan Sekedar Rumah, Tapi Ruang Hidup yang Dirancang untuk Anda</h2>
+        <h2 className="section-title">Rumah Pertama, Tempat Semuanya Bermula</h2>
         <p className="section-subtitle">
-          Paduan Hunian Modern dan Kenyamanan Alami di Kawasan Pegalongan yang Strategis
+          Ruang Aman untuk Tumbuh & Berproses
         </p>
 
         <div className="features-grid">
