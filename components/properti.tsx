@@ -343,10 +343,10 @@ export default function Properties() {
     {
       id: 1,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522442/Salinan_tipe_36_66_Model_4_2_nrk5kh.avif",
+        "/gallery/gallery2.avif",
+        "/gallery/gallery5.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761986305/Screenshot_2025-11-01_at_15.35.25_nxi6ak.avif",
+      floorPlan: "/denah/tipe3266model1.avif",
       name: "Tipe 32/66 Model 1",
       price: "200.000.000",
       bedrooms: 2,
@@ -359,10 +359,10 @@ export default function Properties() {
     {
       id: 2,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522439/Salinan_tipe_32_66_2_trgpqu.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522435/Salinan_tipe_36_66_standar_rvjfvr.avif",
+        "/gallery/gallery2.avif",
+        "/gallery/gallery5.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761986307/Screenshot_2025-11-01_at_15.35.39_bfgbkt.avif",
+      floorPlan: "/denah/tipe3266model2.avif",
       name: "Tipe 32/66 Model 2",
       price: "230.000.000",
       bedrooms: 2,
@@ -375,10 +375,10 @@ export default function Properties() {
     {
       id: 3,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522439/Salinan_tipe_32_77_1_q2pplc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522415/Salinan_tipe_32_77_2_jjtyhl.avif",
+        "/gallery/gallery2.avif",
+        "/gallery/gallery5.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761986307/Screenshot_2025-11-01_at_15.35.48_idvlmd.avif",
+      floorPlan: "/denah/tipe3277.avif",
       name: "Tipe 32/77",
       price: "250.000.000",
       bedrooms: 2,
@@ -391,10 +391,10 @@ export default function Properties() {
     {
       id: 4,
       images: [
-         "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764522442/Salinan_tipe_36_66_Model_4_2_nrk5kh.avif",
+        "/gallery/gallery2.avif",
+        "/gallery/gallery5.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761986307/Screenshot_2025-11-01_at_15.36.00_f2sr7z.avif",
+      floorPlan: "/denah/tipe3666.avif",
       name: "Tipe 36/66",
       price: "270.000.000",
       bedrooms: 2,
@@ -408,7 +408,7 @@ export default function Properties() {
 
   const siteplan = {
     id: "siteplan-1",
-    image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761984213/Screenshot_2025-11-01_at_15.02.09_tcsmjd.avif",
+    image: "/siteplan/siteplan.avif",
     name: "Siteplan Samara Pegalongan",
     description:
       "Masterplan perumahan Samara Pegalongan yang menampilkan layout, jalan, ruang terbuka hijau, dan fasilitas umum dengan one-gate system untuk keamanan optimal.",
@@ -741,7 +741,7 @@ export default function Properties() {
           <div className="specifications-container">
             <div className="specifications-image">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522415/Salinan_tipe_32_77_2_jjtyhl.avif"
+                src="/gallery/gallery3.avif"
                 alt="Spesifikasi Rumah"
                 width={600}
                 height={800}

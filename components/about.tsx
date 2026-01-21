@@ -2,8 +2,8 @@
 
 import Image from "next/image"
 import Link from "next/link"
-import { useState } from "react" // Tambahkan import ini
-import { X } from "lucide-react" // Tambahkan import ini
+import { useState } from "react"
+import { X } from "lucide-react" 
 
 export default function About() {
   // Tambahkan state untuk modal
@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif"
+                src="/gallery/gallery1.avif"
                 alt="Samara Pegalongan"
                 width={600}
                 height={450}
@@ -97,7 +97,7 @@ export default function About() {
               <h2 className="modal-title">Samara Pegalongan</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522442/Salinan_tipe_36_66_Model_4_2_nrk5kh.avif"
+                  src="/gallery/gallery2.avif"
                   alt="Samara Pegalongan"
                   width={700}
                   height={400}

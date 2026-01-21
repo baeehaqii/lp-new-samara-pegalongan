@@ -15,7 +15,7 @@ export default function Header() {
       <div className="container header-container">
         <Link href="/" className="header-logo">
           <Image
-            src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1757392355/samaragraha_o9mg9y.png"
+            src="/logo/samara_graha.avif"
             alt="Samara Pegalongan Logo"
             width={80}
             height={50}

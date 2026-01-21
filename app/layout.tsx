@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   title: "Samara Pegalongan - Hunian Modern di Pegalongan",
   description: "Temukan properti impian Anda di Samara Pegalongan, hunian modern dengan lokasi strategis di Pegalongan dengan fasilitas lengkap dan One-Gate System. Developer Kredibel, Legalitas Terjamin, Proses Mudah. Harga mulai dari 200 jutaan.",
   icons: {
-    icon: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    shortcut: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    apple: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
+    icon: "/icon/icon.avif",
+    shortcut: "/icon.icon.avif",
+    apple: "/icon/icon.avif",
   },
   keywords: [
     "Samara Pegalongan",

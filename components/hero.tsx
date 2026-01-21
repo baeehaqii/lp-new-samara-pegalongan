@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
+      image: "/hero/hero1.avif",
       title: "Rumah Pertama, Tempat Semuanya Bermula",
       description:
         "Setiap momen berharga dimulai dari sini.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522442/Salinan_tipe_36_66_Model_4_2_nrk5kh.avif",
+      image: "/hero/hero2.avif",
       title: "Lokasi Super Strategis",
       description: "Di Segitiga Emas Banyumas, mudah ke segala arah.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764522444/Salinan_tipe_32_66_1_dhnkjr.avif",
+      image: "/hero/hero3.avif",
       title: "Hidup Praktis di Pusat Aktivitas",
       description: "Semua kebutuhan harian hanya beberapa menit dari rumah.",
     },
@@ -163,12 +163,12 @@ export default function Hero() {
                   <Image
                     src={
                       i === 2
-                        ? "https://res.cloudinary.com/dqobwse9q/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1754637078/WhatsApp_Image_2025-06-19_at_11.00.07_bvpgud.jpg"
+                        ? "/avatar/avatar1.avif"
                         : i === 3
-                          ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749059575/image_10_mvh73f.png"
+                          ? "/avatar/avatar2.avif"
                           : i === 4
-                            ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1747762124/freepik__the-style-is-candid-image-photography-with-natural__77739_r5rogr.jpg"
-                            : "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749058806/image_8_meklxg.png"
+                            ? "/avatar/avatar3.avif"
+                            : "/avatar/avatar4.avif"
                     }
                     alt={`Avatar ${i}`}
                     width={40}
