@@ -13,7 +13,7 @@ export default function CallToAction() {
 
           <div className="cta-buttons">
             <Link
-              href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Samara%20Pegalongan"
+              href="https://wa.me/628170031130?text=Halo,%20saya%20lihat%20iklan%20di%20google%20,%20Minta%20tolong%20informasi%20selengkapnya%20tentang%20perumahan%20Samara%20Pegalongan"
               target="_blank"
               rel="noopener noreferrer"
               className="cta-button cta-button-primary"
@@ -23,7 +23,7 @@ export default function CallToAction() {
             </Link>
             <Link
               //border cta
-              href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Samara%20Pegalongan"
+              href="https://wa.me/628170031130?text=Halo,%20saya%20lihat%20iklan%20di%20google%20,%20Minta%20tolong%20informasi%20selengkapnya%20tentang%20perumahan%20Samara%20Pegalongan"
               target="_blank"
               rel="noopener noreferrer"
               className="cta-button cta-button-outline"
